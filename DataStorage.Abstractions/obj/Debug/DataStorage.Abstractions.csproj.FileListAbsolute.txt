@@ -1,0 +1,27 @@
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.Abstractions\obj\Debug\DataStorage.Abstractions.csproj.AssemblyReference.cache

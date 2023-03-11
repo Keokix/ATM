@@ -1,0 +1,18 @@
+X:\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache

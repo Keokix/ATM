@@ -1,0 +1,22 @@
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.InMemory.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.InMemory.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.InMemory.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.InMemory.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.InMemory\obj\Debug\DataStorage.InMemory.csproj.AssemblyReference.cache

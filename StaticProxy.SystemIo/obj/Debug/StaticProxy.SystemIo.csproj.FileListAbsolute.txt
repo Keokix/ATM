@@ -1,0 +1,27 @@
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.pdb
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.SystemIo.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.SystemIo\obj\Debug\StaticProxy.SystemIo.csproj.AssemblyReference.cache

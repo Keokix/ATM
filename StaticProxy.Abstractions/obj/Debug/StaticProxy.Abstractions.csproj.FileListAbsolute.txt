@@ -1,0 +1,16 @@
+X:\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy.Abstractions\obj\Debug\StaticProxy.Abstractions.csproj.AssemblyReference.cache

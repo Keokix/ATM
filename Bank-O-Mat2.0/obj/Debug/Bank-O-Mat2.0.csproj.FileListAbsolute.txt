@@ -1,0 +1,17 @@
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\bin\Debug\Bank-O-Mat2.0.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\bin\Debug\Bank-O-Mat2.0.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bank-O-Mat2.0.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bank-O-Mat2.0.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bank-O-Mat2.0.pdb

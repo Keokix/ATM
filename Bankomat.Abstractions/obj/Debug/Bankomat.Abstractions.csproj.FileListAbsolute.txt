@@ -1,0 +1,17 @@
+X:\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bankomat.Abstractions\obj\Debug\Bankomat.Abstractions.csproj.AssemblyReference.cache

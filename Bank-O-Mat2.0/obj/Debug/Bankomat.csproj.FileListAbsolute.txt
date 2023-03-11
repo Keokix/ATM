@@ -1,0 +1,39 @@
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.dll
+X:\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\Bank-O-Mat2.0\obj\Debug\Bankomat.csproj.AssemblyReference.cache

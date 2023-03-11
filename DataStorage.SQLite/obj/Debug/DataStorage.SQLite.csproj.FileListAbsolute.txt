@@ -1,0 +1,39 @@
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.xml
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.xml
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.SQLite.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\bin\Debug\Dapper.xml
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.SQLite\obj\Debug\DataStorage.SQLite.csproj.AssemblyReference.cache

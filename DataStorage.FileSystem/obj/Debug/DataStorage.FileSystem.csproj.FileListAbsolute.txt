@@ -1,0 +1,39 @@
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.dll
+X:\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.FileSystem.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\DataStorage.FileSystem\obj\Debug\DataStorage.FileSystem.csproj.AssemblyReference.cache

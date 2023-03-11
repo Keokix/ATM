@@ -1,0 +1,18 @@
+X:\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.pdb
+X:\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.dll
+X:\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csprojAssemblyReference.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\StaticProxy\obj\Debug\StaticProxy.pdb

@@ -1,0 +1,97 @@
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\bin\Debug\BankUI.exe.config
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\bin\Debug\BankUI.exe
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\bin\Debug\BankUI.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\bin\Debug\Bank-O-Mat2.0.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\bin\Debug\Bank-O-Mat2.0.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\obj\Debug\BankUI.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\obj\Debug\BankUI.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\obj\Debug\BankUI.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\obj\Debug\BankUI.exe
+C:\Users\altieri\source\repos\Bank-O-Mat2.0\BankUI\obj\Debug\BankUI.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe.config
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csprojAssemblyReference.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CoreCompileInputs.cache
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CopyComplete
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.exe
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.xml
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe.config
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.dll
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.xml
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.pdb
+X:\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.xml
+X:\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csprojAssemblyReference.cache
+X:\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CoreCompileInputs.cache
+X:\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CopyComplete
+X:\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.exe
+X:\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.pdb
+C:\Users\altieri\source\repos\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe.config
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.exe
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\BankUI.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.FileSystem.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.SQLite.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Domain.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\StaticProxy.SystemIo.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Bankomat.Abstractions.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\Dapper.xml
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CoreCompileInputs.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.CopyComplete
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.exe
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.InMemory.dll
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\bin\Debug\DataStorage.InMemory.pdb
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.AssemblyReference.cache
+C:\Users\marce_hpoatx\OneDrive\Dokumente\Allgemeine Unterlagen\Bank-O-Mat2.0 (final)\BankUI\obj\Debug\BankUI.csproj.SuggestedBindingRedirects.cache
